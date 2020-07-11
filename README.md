@@ -11,8 +11,6 @@
 ![Recordit GIF](http://g.recordit.co/9lKk13wR7b.gif)
 
 
-> Live Version : https://admission-prediction-app.herokuapp.com/predict
-
 
 ## Table of Contents
 
