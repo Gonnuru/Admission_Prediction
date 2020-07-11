@@ -7,13 +7,16 @@
 [![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Gonnuru/Admission_Prediction/master) ![Python](https://img.shields.io/badge/Python-3.8-blueviolet) ![Framework](https://img.shields.io/badge/Framework-Flask-red) ![Frontend](https://img.shields.io/badge/Frontend-HTML/CSS/JS-green) ![GitHub repo size](https://img.shields.io/github/repo-size/Gonnuru/Admission_Prediction) 
 
 **Demo**
+
 ![Recordit GIF](http://g.recordit.co/9lKk13wR7b.gif)
+
+
+> Live Version : https://admission-prediction-app.herokuapp.com/predict
 
 
 ## Table of Contents
 
 
-- [LiveVersion](#liveversion)
 - [Installation](#installation)
 - [Contributing](#contributing)
 - [Support](#support)
@@ -22,9 +25,6 @@
 
 ---
 
-## LiveVersion 
-
-- Deployed at: <a href="https://admission-prediction-app.herokuapp.com/predict" target="_blank">`Heroku`</a>
 
 ## Installation
 
